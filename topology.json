@@ -1,0 +1,19 @@
+{
+  "gateway": {
+    "name": "GW",
+    "ip": "192.168.7.1"
+  },
+  "satellites": [
+    {
+      "name": "SAT1",
+      "uplink": "wireless",
+      "parent": "GW"
+    },
+    {
+      "name": "SAT2",
+      "uplink": "wireless",
+      "parent": "SAT1"
+    }
+  ],
+  "client_probe": "8.8.8.8"
+}
