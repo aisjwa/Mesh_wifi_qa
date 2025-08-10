@@ -1,4 +1,4 @@
-# Mesh Wi‑Fi QA Lab (Public‑safe)
+
 
 A hands-on template to validate **home mesh Wi‑Fi** (gateway + satellite nodes): onboarding, backhaul health, client roaming, and channel/band steering.
 
